@@ -4,7 +4,7 @@
 - **Name**: Wonwoo Park (박원우)
 - **Email**: bemore@kakao.com
 - **Phone**: +82-10-7730-2365
-- **Location**: Seongnam-si, Gyeonggi-do, South Korea
+- **Location**: Gumi-ro 50, Bundang-ku Seongnam-si, Gyeonggi-do, South Korea (Near to Ori-Station)
 - **GitHub**: [bemoregt](https://github.com/bemoregt)
 
 ## Professional Summary
