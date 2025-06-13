@@ -114,8 +114,8 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 ### Online Presence
 - **YouTube Channel**: [@sheekjegal](https://www.youtube.com/@sheekjegal) - Computer Vision tutorials
 - **Facebook Group**: [Deep Learning & Fourier Transform](https://www.facebook.com/groups/297004660778037)
-- **Blog**: [Brunch](https://brunch.co.kr/@f6cf51e0a3154dc)
-- **Apple App Store**: 10+ published applications
+- **Blog**: [Tistory](https://wineskin.tistory.com/)
+- **Apple App Store**: 10+ published OSX applications
 
 ## Certifications
 
