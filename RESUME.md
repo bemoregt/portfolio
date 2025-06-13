@@ -58,7 +58,7 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 - Published technical book: "Fourier Image Processing for Deep Learning" (2023)
 
 ### Senior Computer Vision Engineer
-**MaxScience Co., Ltd.** | November 2017 - July 2021
+**MacScience Co., Ltd.** | November 2017 - July 2021
 
 #### Key Projects:
 - **Hansol**: Solar panel visible light image AOI system (C#.NET, OpenCV)
