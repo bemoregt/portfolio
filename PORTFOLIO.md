@@ -2,7 +2,7 @@
 
 ## 🎯 Professional Overview
 
-Experienced Computer Vision and Deep Learning specialist with a unique hybrid approach combining mathematical signal processing with modern AI techniques. My expertise spans 15+ years in industrial applications, with 6+ years focused on production deep learning systems.
+Experienced Computer Vision and Deep Learning specialist with a unique hybrid approach combining mathematical signal processing with modern AI techniques. My expertise spans 15+ years in industrial applications, with 8+ years focused on production deep learning systems.
 
 ## 🚀 Core Competencies
 
