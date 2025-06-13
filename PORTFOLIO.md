@@ -7,7 +7,7 @@ Experienced Computer Vision and Deep Learning specialist with a unique hybrid ap
 ## 🚀 Core Competencies
 
 ### Deep Learning + OpenCV Hybrid Vision
-- **Mathematical Image Processing**(OpenCV) + **Data-Driven Vision** (Deep Learning)
+- **Mathematical Image Processing**(OpenCV) + **Data-Driven Vision** (AI)
 - **Mathematical Augmentation** techniques
 - **Fast Defect-Candidates Search** + **Labeling** systems
 - **SAM Model** + **Contour Analysis** integration
