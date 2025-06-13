@@ -25,7 +25,8 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 - Custom Augmentation Techniques
 - Defect Detection and Quality Control
 - Medical and Industrial Imaging
-- Real-time Processing Systems
+- Data Synthesis using GenAI
+- ArmCore Linux-based Edge Vision & AI Systems
 
 ## Education
 
