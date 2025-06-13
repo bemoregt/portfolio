@@ -112,7 +112,7 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 - Available: [Aladin Bookstore](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
 
 ### Online Presence
-- **YouTube Channel**: [@seohopa](https://www.youtube.com/@seohopa) - Computer Vision tutorials
+- **YouTube Channel**: [@sheekjegal](https://www.youtube.com/@sheekjegal) - Computer Vision tutorials
 - **Facebook Group**: [Deep Learning & Fourier Transform](https://www.facebook.com/groups/297004660778037)
 - **Blog**: [Brunch](https://brunch.co.kr/@f6cf51e0a3154dc)
 - **Apple App Store**: 10+ published applications
