@@ -33,18 +33,18 @@ Experienced Computer Vision and Deep Learning specialist with a unique hybrid ap
 ## 💻 Technical Stack
 
 ### Programming & Development
-- **Primary**: Python, C++
+- **Primary**: Python(10), C++(10)
 - **Secondary**: C#.NET, Java (SCJP Certified)
-- **GUI Frameworks**: PyQt, Tkinter, WinForms, VCL, OpenFrameworks
-- **IDEs**: Xcode, Visual Studio, Thonny, Jupyter, CMake
-- **Libraries**: OpenCV, NumPy, Pandas, PyTorch, TorchVision, Octave, ImageMagick
-- **Apple App Store**: 10+ published applications
+- **GUI Frameworks**: PyQt, TkInter, WinForms, VCL, OpenFrameworks
+- **IDEs**: Xcode, Visual Studio, Cursor, Jupyter, CMake
+- **Libraries**: OpenCV, Pandas, PyTorch, TorchVision, Matlab, ImageMagick, FFmpeg, Sox, GnuParallel, MCP-server
+- **Apple App Store**: 10+ published OSX apps & Deployed.
 
 ### Hardware & Platforms
-- **GPU Computing**: CUDA (GTX750Ti ~ RTX4090)
+- **GPU Computing**: CUDA (GTX750Ti, RTX4090, A5000, multi-node)
 - **Operating Systems**: Ubuntu (14.04LTS ~ 22.04LTS)
 - **Edge Computing**: Jetson TK1, Jetson Nano, Orin
-- **Embedded**: Raspberry Pi 4, Raspbian
+- **Embedded**: RaspberryPi4, Raspbian, Arduino+Processing
 - **Apple Silicon**: M1 Mac, MPS GPGPU optimization
 - **Mobile**: iOS, macOS development
 
