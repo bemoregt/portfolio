@@ -9,7 +9,7 @@ Experienced Computer Vision and Deep Learning specialist with a unique hybrid ap
 ### Deep Learning + OpenCV Hybrid Vision
 - **Mathematical Image Processing**(OpenCV) + **Data-Driven Vision** (Deep Learning)
 - **Mathematical Augmentation** techniques
-- **Candidate Fast Search** + **Labeling** systems
+- **Fast Defect-Candidates Search** + **Labeling** systems
 - **SAM Model** + **Contour Analysis** integration
 - **DefectPose** - Novel keypoint-based measurement
 - **SRSM** + **Deep InPaint** for defect removal
