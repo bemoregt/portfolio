@@ -14,11 +14,11 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 ## Core Competencies
 
 ### Technical Skills
-- **Deep Learning**: PyTorch, TensorFlow, CNN, R-CNN, YOLO, Object Detection, Segmentation
-- **Computer Vision**: OpenCV, Image Processing, Feature Extraction, Pattern Recognition
+- **Deep Learning**: PyTorch, YoloV5, 3DSwinUnetR, KeyR-CNN, SCN, TimesNet, Centernet, GradCAM++, PatchCore, SAM2, etc.
+- **Computer Vision**: OpenCV, EasyOCR, Gabor F.Bank, GLCM, GraphCut, SuperPixel, SKImage, NLMean, InPainting, etc.
 - **Signal Processing**: Fourier Transform, Spectral Analysis, Wavelet Transform, Time-Series Analysis
 - **Programming**: Python, C++, C#.NET, Java, MATLAB
-- **Hardware**: CUDA (GTX750Ti~RTX4090), Apple Silicon MPS, Jetson, Raspberry Pi
+- **Hardware**: CUDA (GTX750Ti~A5000, multi-nodes), Apple Silicon MPS, Jetson, Raspberry Pi
 
 ### Specialized Areas
 - Hybrid Vision Systems (Classical CV + Deep Learning)
