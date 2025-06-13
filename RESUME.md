@@ -6,7 +6,6 @@
 - **Phone**: +82-10-7730-2365
 - **Location**: Seongnam-si, Gyeonggi-do, South Korea
 - **GitHub**: [bemoregt](https://github.com/bemoregt)
-- **YouTube**: [@seohopa](https://www.youtube.com/@seohopa)
 
 ## Professional Summary
 
