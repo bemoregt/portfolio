@@ -17,7 +17,7 @@ Experienced Computer Vision and Deep Learning specialist with a unique hybrid ap
 ### Signal Processing & Image Analysis
 - **1D Preprocessing**: LPF, HPF, Butterworth, Chebyshev filters
 - **1D Signal to Image**: Spectrogram, Scalogram, Bispectrum, WVD
-- **Pulse Phase Thermography** for non-destructive testing
+- **Pulse Phase Thermography** for non-destructive inspection
 - **Time Series Analysis**: Malware detection, sensor data, semiconductor sensors, battery ultrasound signals
 - **Window Functions**: Hamming, Hann augmentation techniques
 
