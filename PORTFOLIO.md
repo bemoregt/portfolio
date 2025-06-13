@@ -327,7 +327,7 @@ class OpenCVDeepLearning:
 Interested in collaboration or learning more about my work?
 
 - **Email**: bemore@kakao.com
-- **YouTube**: [@seohopa](https://www.youtube.com/@seohopa)
+- **YouTube**: [@sheekjegal](https://www.youtube.com/@sheekjegal)
 - **Facebook**: [Computer Vision Community](https://www.facebook.com/groups/297004660778037)
 - **GitHub**: [bemoregt](https://github.com/bemoregt)
 
