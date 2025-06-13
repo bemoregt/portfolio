@@ -190,10 +190,10 @@ class SAMOpenCV:
 - [Available on Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
 
 ### Online Presence
-- **YouTube Channel**: [@seohopa](https://www.youtube.com/@seohopa) - Computer Vision tutorials and demonstrations
+- **YouTube Channel**: [@jegalsheek](https://www.youtube.com/@jegalsheek) - Computer Vision tutorials and demonstrations
 - **Facebook Group**: [Deep Learning & Fourier Transform](https://www.facebook.com/groups/297004660778037) - Community of 1000+ members
 - **Apple App Store**: [C-Booth App](https://apps.apple.com/kr/app/c-booth/id6738316726?mt=12) and 9 other applications
-- **Technical Blog**: [Brunch](https://brunch.co.kr/@f6cf51e0a3154dc) - Regular technical writing
+- **Technical Blog**: [TiStory](https://wineskin.tistory.com/) - Regular technical writing
 
 ## 🏭 Industrial Applications
 
