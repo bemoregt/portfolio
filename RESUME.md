@@ -22,9 +22,9 @@ Seasoned Computer Vision and Deep Learning expert with 15+ years of experience i
 
 ### Specialized Areas
 - Hybrid Vision Systems (Classical CV + Deep Learning)
-- Custom Augmentation Techniques
+- Newest Augmentation Techniques
 - Defect Detection and Quality Control
-- Medical and Industrial Imaging
+- Robust Image Processing in Frequency Domain
 - Data Synthesis using GenAI
 - ArmCore Linux-based Edge Vision & AI Systems
 
